@@ -1,9 +1,8 @@
 ### Contents
 
-    - An insertion sort implementation of the `IntSorter` interface.
-    - Four quicksort implementations, detailed in [Variations of Quicksort](#variations-of-quicksort)
-    - Test classes for all five production classes, using inheritance to avoid
-      test duplication.
+* An insertion sort implementation of the `IntSorter` interface.
+* Four quicksort implementations, detailed in [Variations of Quicksort](#variations-of-quicksort)
+* Test classes for all five production classes, using inheritance to avoid test duplication.
 
 #### Variations of Quicksort
 
